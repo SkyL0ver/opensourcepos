@@ -1,4 +1,5 @@
-<?php
+<?php 
+
 $lang["item_kits_add_item"] = "Add Item";
 $lang["item_kits_all"] = "All";
 $lang["item_kits_cannot_be_deleted"] = "Item Kit(s) delete failed.";
@@ -13,6 +14,9 @@ $lang["item_kits_error_adding_updating"] = "Item Kit add or update failed.";
 $lang["item_kits_find_kit_item"] = "Kit Item";
 $lang["item_kits_info"] = "Item Kit Info";
 $lang["item_kits_item"] = "Item";
+$lang["item_kits_item_kit_number"] = "";
+$lang["item_kits_item_kit_number_duplicate"] = "";
+$lang["item_kits_item_number"] = "";
 $lang["item_kits_items"] = "Items";
 $lang["item_kits_kit"] = "Kit ID";
 $lang["item_kits_kit_and_components"] = "Kit and Components";

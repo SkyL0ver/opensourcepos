@@ -1,4 +1,5 @@
-<?php
+<?php 
+
 $lang["items_add_minus"] = "เพิ่ม/ลบ จำนวนสินค้าคงคลัง";
 $lang["items_allow_alt_description"] = "แสดงข้อมูลเพิ่มเติม";
 $lang["items_amount_entry"] = "จำนวนเงิน";
@@ -14,13 +15,17 @@ $lang["items_change_all_to_serialized"] = "เปลี่ยนแปลงร�
 $lang["items_change_all_to_unserialized"] = "ลบรหัสสินค้าทั้งหมด";
 $lang["items_change_image"] = "เปลี่ยนรูปภาพ";
 $lang["items_confirm_bulk_edit"] = "แน่ใจหรือไม่ที่จะแก้ใขสินค้าทั้งหมดที่คุณเลือก?";
-$lang["items_confirm_bulk_edit_wipe_taxes"] = "All item tax information will be replaced!";
+$lang["items_confirm_bulk_edit_wipe_taxes"] = "ข้อมูลภาษีทั้งหมดจะถูกแทนที่";
 $lang["items_confirm_delete"] = "โปรดยืนยันการลบสินค้าที่ถูกเลือก?";
-$lang["items_confirm_restore"] = "คุณแน่ใจหรือไม่ว่าต้องการกู้คืนรายการที่เลือก";
+$lang["items_confirm_restore"] = "คุณแน่ใจหรือไม่ว่าต้องการกู้คืนรายการที่เลือก?";
 $lang["items_cost_price"] = "ราคาทุน";
 $lang["items_cost_price_number"] = "ราคาทุนต้องเป็นตัวเลข";
 $lang["items_cost_price_required"] = "ราคาทุนต้องกรอก";
 $lang["items_count"] = "แก้ไขจำนวนสินค้าคงคลัง";
+$lang["items_csv_import_failed"] = "นำเข้าข้อมูล CSV ล้มเหลว";
+$lang["items_csv_import_nodata_wrongformat"] = "Your uploaded file has no data or wrong format";
+$lang["items_csv_import_partially_failed"] = "มีรายการ %1 รายการที่นำเข้าล้มเหลว : %2 รายการที่ยังไม่ได้นำเข้า";
+$lang["items_csv_import_success"] = "Import of Items successful";
 $lang["items_current_quantity"] = "ปริมาณสินค้าคงคลัง";
 $lang["items_default_pack_name"] = "ชิ้นละ";
 $lang["items_description"] = "รายละเอียด";
@@ -31,16 +36,13 @@ $lang["items_edit_multiple_items"] = "แก้ใขสินค้าต่า
 $lang["items_empty_upc_items"] = "Empty UPC Items";
 $lang["items_error_adding_updating"] = "เพิ่ม/ปรับแต่ง สินค้าล้มเหลว";
 $lang["items_error_updating_multiple"] = "ปรับแต่งสินค้าล้มเหลว";
-$lang["items_csv_import_failed"] = "นำเข้าข้อมูล CSV ล้มเหลว";
-$lang["items_csv_import_nodata_wrongformat"] = "Your uploaded file has no data or wrong format";
-$lang["items_csv_import_partially_failed"] = "การนำเข้ารายการสำเร็จแต่มีความผิดปกติบางอย่าง :";
-$lang["items_csv_import_success"] = "Import of Items successful";
 $lang["items_generate_barcodes"] = "พิมพ์บาร์โค๊ด";
 $lang["items_hsn_code"] = "ระบบการตั้งชื่อที่กลมกลืนกัน";
 $lang["items_image"] = "รูป";
-$lang["items_import_items_csv"] = "Import items from CSV sheet";
+$lang["items_import_items_csv"] = "รายการที่นำเข้าจาก CSV";
 $lang["items_info_provided_by"] = "จัดเตรียมข้อมูลโดย";
 $lang["items_inventory"] = "สินค้าคงเหลือ";
+$lang["items_inventory_CSV_import_quantity"] = "จำนวนที่นำเข้าจาก CSV";
 $lang["items_inventory_comments"] = "คำอธิบาย";
 $lang["items_inventory_data_tracking"] = "การติดตามข้อมูลสินค้าคงคลัง";
 $lang["items_inventory_date"] = "วันที่";

@@ -1,4 +1,5 @@
-<?php
+<?php 
+
 $lang["common_address_1"] = "ທີ່ຢູ່ 1";
 $lang["common_address_2"] = "ທີ່ຢູ່ 2";
 $lang["common_city"] = "ເມືອງ";
@@ -6,6 +7,7 @@ $lang["common_close"] = "ປິດ";
 $lang["common_comments"] = "ຄວາມຄິດເຫັນ";
 $lang["common_common"] = "ຮ່ວມກັນ";
 $lang["common_confirm_search"] = "ທ່ານໄດ້ເລືອກໜຶ່ງແຖວຂຶ້ນໄປຊຶ່ງຈະບໍ່ຖືກເລືອກຫຼັງຈາກການຄົ້ນຫາຂອງທ່ານ ທ່ານແນ່ໃຈຫຼືບໍ່ວ່າຕ້ອງການສົ່ງການຄົ້ນຫານີ້?";
+$lang["common_copyrights"] = "© 2010 - %1";
 $lang["common_correct_errors"] = "ກະລູນາແກ້ໄຂຂໍ້ພິດຜາດກ່ອນບັນທຶກ";
 $lang["common_country"] = "ປະເທດ";
 $lang["common_date"] = "ວັນທີ";
@@ -25,6 +27,7 @@ $lang["common_first_page"] = "ທຳອິດ";
 $lang["common_gender"] = "ເພດ";
 $lang["common_gender_female"] = "ຍ";
 $lang["common_gender_male"] = "ຊ";
+$lang["common_gender_undefined"] = "";
 $lang["common_id"] = "ລະຫັດ";
 $lang["common_import"] = "ອິມພ໊ອດ";
 $lang["common_import_change_file"] = "ປ່ຽນແປງ";
@@ -41,6 +44,7 @@ $lang["common_list_of"] = "List of";
 $lang["common_logout"] = "Logout";
 $lang["common_migration_needed"] = "ການຍ້າຍຖານຂໍ້ມູນ %1 ຈະເລີ່ມຫຼັງຈາກເຂົ້າສູ່ລະບົບ";
 $lang["common_new"] = "ໃໝ່";
+$lang["common_no"] = "";
 $lang["common_no_persons_to_display"] = "There are no people to display.";
 $lang["common_none_selected_text"] = "ບໍ່ໄດ້ເລືອກລາຍການ";
 $lang["common_or"] = "ຫຼື";
@@ -65,5 +69,6 @@ $lang["common_view_recent_sales"] = "ເບິ່ງການຂາຍລ່າ�
 $lang["common_website"] = "ເວັບໄຊ";
 $lang["common_welcome"] = "ຍິນດີຕ້ອນຮັບ";
 $lang["common_welcome_message"] = "ຍິນດີຕ້ອນຮັບສູ່ OSPOS, ກົດໂມເດວດ້ານລຸ່ມເພື່ອເລີ່ມ.";
+$lang["common_yes"] = "";
 $lang["common_you_are_using_ospos"] = "ທ່ານກຳລັງໃຊ້ Open Source Point Of Sale ເວີຊັ່ນ";
 $lang["common_zip"] = "ລະຫັດໄປສະນີ";
