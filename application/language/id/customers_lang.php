@@ -1,6 +1,6 @@
 <?php
-$lang["customers_account_number"] = "No Pelanggan";
-$lang["customers_account_number_duplicate"] = "Nomor akun ini telah tersimpan di basis data.";
+$lang["customers_account_number"] = "Akun #";
+$lang["customers_account_number_duplicate"] = "Nomor akun ini telah ada di basis data.";
 $lang["customers_available_points"] = "Poin yang tersedia";
 $lang["customers_available_points_value"] = "";
 $lang["customers_average"] = "Rata-rata yang dihabiskan";
@@ -12,7 +12,7 @@ $lang["customers_confirm_delete"] = "Apakah Anda yakin ingin menghapus pelanggan
 $lang["customers_confirm_restore"] = "Anda yakin akan mengembalikan pelanggan terpilih?";
 $lang["customers_consent"] = "Persetujuan pendaftaran";
 $lang["customers_consent_required"] = "Persetujuan pendaftaran adalah bidang yang harus diisi.";
-$lang["customers_csv_import_failed"] = "Impor dari CSV tidak berhasil dilakukan";
+$lang["customers_csv_import_failed"] = "Impor dari CSV gagal";
 $lang["customers_csv_import_nodata_wrongformat"] = "Berkas yang Anda unggah tidak berisi data atau salah format.";
 $lang["customers_csv_import_partially_failed"] = "Impor pelanggan berhasil dwngan beberapa kesalahan:";
 $lang["customers_csv_import_success"] = "Impor pelanggan berhasil.";
