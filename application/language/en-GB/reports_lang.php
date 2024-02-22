@@ -1,5 +1,4 @@
-<?php 
-
+<?php
 $lang["reports_all"] = "All";
 $lang["reports_authority"] = "Authority";
 $lang["reports_canceled"] = "Cancelled";
@@ -73,12 +72,12 @@ $lang["reports_low_inventory_report"] = "";
 $lang["reports_low_sell_quantity"] = "Low Sell Qty";
 $lang["reports_more_than_zero"] = "More than zero";
 $lang["reports_name"] = "Name";
-$lang["reports_no_reports_to_display"] = "No Items to display";
+$lang["reports_no_reports_to_display"] = "No Items to display.";
 $lang["reports_payment_type"] = "Payment Type";
 $lang["reports_payments"] = "Payments";
 $lang["reports_payments_summary_report"] = "Payments Summary Report";
 $lang["reports_profit"] = "Profit";
-$lang["reports_quantity"] = "Qty";
+$lang["reports_quantity"] = "Quantity";
 $lang["reports_quantity_purchased"] = "Quantity Purchased";
 $lang["reports_quotes"] = "Quotes";
 $lang["reports_received_by"] = "Received By";
@@ -115,14 +114,14 @@ $lang["reports_sold_to"] = "Sold To";
 $lang["reports_stock_location"] = "Stock Location";
 $lang["reports_sub_total_value"] = "Sub Total";
 $lang["reports_subtotal"] = "Sub Total";
-$lang["reports_summary_reports"] = "Sales Summary Reports";
+$lang["reports_summary_reports"] = "Summary Reports";
 $lang["reports_supplied_by"] = "Supplied by";
 $lang["reports_supplier"] = "Supplier";
 $lang["reports_suppliers"] = "Suppliers";
 $lang["reports_suppliers_summary_report"] = "Suppliers Summary Report";
 $lang["reports_tax"] = "Tax";
 $lang["reports_tax_category"] = "Tax Category";
-$lang["reports_tax_name"] = "";
+$lang["reports_tax_name"] = "Tax Name";
 $lang["reports_tax_percent"] = "Tax Percent";
 $lang["reports_tax_rate"] = "Tax Rate";
 $lang["reports_taxes"] = "Taxes";

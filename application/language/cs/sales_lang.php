@@ -1,5 +1,4 @@
-<?php 
-
+<?php
 $lang["customers_available_points"] = "Dostupné body";
 $lang["rewards_package"] = "";
 $lang["rewards_remaining_balance"] = "";
@@ -183,7 +182,7 @@ $lang["sales_show_due"] = "";
 $lang["sales_show_invoice"] = "Zobrazit fakturu";
 $lang["sales_show_receipt"] = "Zobrazit účtenku";
 $lang["sales_start_typing_customer_name"] = "Vložte podrobnosti o zákazníkovi...";
-$lang["sales_start_typing_item_name"] = "Napište název položky nebo naskenujte čátový kód..";
+$lang["sales_start_typing_item_name"] = "Napište název položky nebo naskenujte čárový kód..";
 $lang["sales_stock"] = "Sklad";
 $lang["sales_stock_location"] = "Umístění skladu";
 $lang["sales_sub_total"] = "Bez DPH";

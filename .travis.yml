@@ -48,7 +48,7 @@ deploy:
     email: jeroen@steganos.dev
     skip_cleanup: true
     api_key:
-      secure: "bmOfMoGBi+wTEdTbIB7wPenNTCZrmHAa05xZnMxZSOjxplZpnZSO4Tvnnkihz9LpbF3xT1hm76AJJuZonu2HKtUez+6L4Fg+i/jS8Ij/BZlbvKBVTeB+2yN09ncXNmObnl1bShtm90d2WYQJKk3NJGuEboFQNxwJLYJXg33iMhc="
+      secure: "DNPJOrT51wdO0BAbkX2hKowdXYh7x8d43xvAw7eVfOslyBPiv6Bb/1QdC2Bpnlqe0WiJVS5hvBTMrJ+vSDK5i/l8jA+ZoI6ms1+P1DQ6sBBMBQI2fuvRCrJj+Fp3WnaduZb/N7R+FqdKQwD/ZORyhzJ4whtHkrO8uC7cY/wlacU="
 
     on:
       all_branches: true
@@ -62,7 +62,8 @@ deploy:
     user: jekkos
     overwrite: true
     api_key:
-      secure: Ax25mMRDfHVf/HjRwqxYJe2oMnWC4sc2aKIiUxAOviVJJSCl4GMWhcFlUNnFsDcKIg2ofEGMVD6b9cTBuOwPDvymUDFnLNCCgDWve+vRDdWaTkTipn77Qk4c9UO9VvuzlPSKopChefPHlQ0n1rEmAMiKIXuqjUlNGqybW4FLP4E=
+      secure: "DNPJOrT51wdO0BAbkX2hKowdXYh7x8d43xvAw7eVfOslyBPiv6Bb/1QdC2Bpnlqe0WiJVS5hvBTMrJ+vSDK5i/l8jA+ZoI6ms1+P1DQ6sBBMBQI2fuvRCrJj+Fp3WnaduZb/N7R+FqdKQwD/ZORyhzJ4whtHkrO8uC7cY/wlacU="
+
     on:
       tags: true
       branch: master
